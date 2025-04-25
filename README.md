@@ -20,8 +20,9 @@ The project is divided into several progressive parts:
 The user can load an image, apply one or more filters, and save the result in a new BMP file — all through a simple command-line menu interface.
 We will carry out the tests with the following images: 
 
-![barbara_gray](https://github.com/user-attachments/assets/b5f6adf8-db48-4ba2-9bc6-df62d2230b3e)
-![flowers_color](https://github.com/user-attachments/assets/9abdad8c-9f55-4cd4-8477-da8d6d0ac3dc)
+![flowers_color](https://github.com/user-attachments/assets/25b4a468-13dc-4c17-bc46-3d82e91612bc)
+![barbara_gray](https://github.com/user-attachments/assets/22bb606c-e6e5-4dae-b5b2-0562b963a252)
+
 
 ---
 
