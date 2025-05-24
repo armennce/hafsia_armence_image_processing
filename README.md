@@ -36,17 +36,17 @@ We will carry out the tests with the following images:
 - `images/` – Sample BMP images for testing  
 
 .
-├── Makefile
-├── main.c
-├── bmp8.h
-├── bmp8.c
-├── bmp24.h
-├── bmp24.c
-├── histogram.h
-├── histogram.c
-├── utils.h
-├── utils.c
-└── README.md (brief instructions)
+├── Makefile<br>
+├── main.c<br>
+├── bmp8.h<br>
+├── bmp8.c<br>
+├── bmp24.h<br>
+├── bmp24.c<br>
+├── histogram.h<br>
+├── histogram.c<br>
+├── utils.h<br>
+├── utils.c<br>
+└── README.md (brief instructions)<br>
 ---
 
 ## ✅ Main Features
