@@ -35,6 +35,18 @@ We will carry out the tests with the following images:
 - `main.c` – Command-line interface and menu  
 - `images/` – Sample BMP images for testing  
 
+.
+├── Makefile
+├── main.c
+├── bmp8.h
+├── bmp8.c
+├── bmp24.h
+├── bmp24.c
+├── histogram.h
+├── histogram.c
+├── utils.h
+├── utils.c
+└── README.md (brief instructions)
 ---
 
 ## ✅ Main Features
