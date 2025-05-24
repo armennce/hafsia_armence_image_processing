@@ -27,15 +27,7 @@ We will carry out the tests with the following images:
 ---
 
 ## 📁 Project Structure
-
-- `bmp8.c/h` – Functions for 8-bit grayscale image processing  
-- `bmp24.c/h` – Functions for 24-bit color image processing  
-- `filters.c/h` – Convolution filter implementations  
-- `utils.c/h` – Utility functions (file reading, writing, allocations)  
-- `main.c` – Command-line interface and menu  
-- `images/` – Sample BMP images for testing  
-
-.
+ 
 ├── Makefile<br>
 ├── main.c<br>
 ├── bmp8.h<br>
@@ -46,6 +38,7 @@ We will carry out the tests with the following images:
 ├── histogram.c<br>
 ├── utils.h<br>
 ├── utils.c<br>
+├── /images<br>
 └── README.md (brief instructions)<br>
 ---
 
