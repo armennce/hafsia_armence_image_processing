@@ -1,7 +1,10 @@
 # 🖼️ Image Processing in C
 
-The aim of this project is to implement a little software to process BMP images in C, covering both **8-bit grayscale** and **24-bit color** formats. It allows you to load<br>
-images, apply filters, equalize histograms, and save the results.
+The aim of this project is to implement a little software to process BMP images in C, covering both **8-bit grayscale** and **24-bit color** formats. It allows you to load
+images, apply filters, equalize histograms, and save the results. 
+
+We will work with these two images: barbara.bmp for 8-bit grayscale and flowers_color.bmp for 24-bit color format →
+
 
 ---
 
@@ -68,10 +71,15 @@ images, apply filters, equalize histograms, and save the results.
 
 #### Grayscale (Barbara)
 
-![barbara_gray](https://github.com/user-attachments/assets/806d3f61-6a19-4295-b811-e3738fad7f58)
+![out_barbara_brightness](https://github.com/user-attachments/assets/12b855ba-3177-42c3-902a-a37fdf44f1e9) brightness
+![out_barbara_equalized](https://github.com/user-attachments/assets/8bf8089c-7846-4c31-a288-e98eed8a98a3) equalized
+
 ---
 
 #### Color (Flowers)
+![out_flowers_equalized](https://github.com/user-attachments/assets/7daeae42-c6ad-480b-a6bc-f74189b61d65) equalized
+![out_flowers_grayscale](https://github.com/user-attachments/assets/76ee7bb6-ae51-475c-8776-2ecf8edafff9) grayscale
+![out_flowers_negative](https://github.com/user-attachments/assets/332eae51-ba7b-40a0-b21e-f3dfcea6940a) negative
 
 
 ---
