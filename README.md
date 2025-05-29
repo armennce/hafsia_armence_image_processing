@@ -90,18 +90,20 @@ negative
 
 #### Structure of the project 
 
-image-processing/
-├── main.c                  
-├── bmp8.c / bmp8.h         
-├── bmp24.c / bmp24.h       
-├── histogram.c / histogram.h 
-├── utils.c / utils.h       
-├── images/                 
-│   ├── barbara_original.bmp
-│   ├── flowers_original.bmp
-├── README.md               
-└── Makefile                
-
+📦 image-processing
+├── main.c
+├── bmp8.c
+├── bmp8.h
+├── bmp24.c
+├── bmp24.h
+├── histogram.c
+├── histogram.h
+├── utils.c
+├── utils.h
+├── README.md
+├── barbara_gray.bmp
+├── flowers_color.bmp
+    
 
 ### 🛠️ How to Build & Run
 
